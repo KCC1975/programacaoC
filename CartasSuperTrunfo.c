@@ -6,7 +6,7 @@
 
 int main() {
 // Área para identificação das variaveis para amarzenar as propriedades das cidades
-
+printf("Oi\n");
 // Área para entrada de dados 
 
 // Área para exibição dos dados da cidade.
