@@ -26,25 +26,41 @@ int main() {
 Carta Carta1, Carta2;
 
 //Cadastro da Carta 1
+
+printf ("Cadastro da carta %d \n,num");
 printf ("Estado \n");
+scanf ("%c, %c= Estado");
 printf ("Codigo da Carta \n ");
+scanf ("%s, %s= Codigo da Carta");
 printf ("Nome da Cidade \n");
+scanf  ("%c, %c= Nome da Cidade \n");
 printf ("População \n");
+scanf  ("%d, %d= População\n");
 printf ("Área Km2 \n");
+scanf  ("%f, %f= Área Km2 \n");=
 printf ("PIB \n");
+scanf  ("%f, %f= PIB \n");
 printf ("Pontos Turísticos \n");
+scanf  ("%d, %d= Pontos Turísticos \n ");
 
 
 //Cadastro da Carta 2
 
+printf ("Cadastro da carta %d \n,num");
 printf ("Estado \n");
+scanf ("%c, %c= Estado");
 printf ("Codigo da Carta \n ");
+scanf ("%s, %s= Codigo da Carta");
 printf ("Nome da Cidade \n");
+scanf  ("%c, %c= Nome da Cidade \n");
 printf ("População \n");
+scanf  ("%d, %d= População\n");
 printf ("Área Km2 \n");
+scanf  ("%f, %f= Área Km2 \n");=
 printf ("PIB \n");
+scanf  ("%f, %f= PIB \n");
 printf ("Pontos Turísticos \n");
-
+scanf  ("%d, %d= Pontos Turísticos \n ");
 
   return 0;
 
